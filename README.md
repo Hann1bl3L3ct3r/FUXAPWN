@@ -5,6 +5,8 @@ SCADA/HMI platform. Chains to remote code execution via several distinct
 post-write primitives. Works even when `secureEnabled = true` (authentication
 on) because the vulnerable endpoint has no middleware attached.
 
+Also available on ExploitDB: https://www.exploit-db.com/exploits/52568
+
 | Field          | Value                                           |
 | -------------- | ----------------------------------------------- |
 | CVE ID         | CVE-2026-25895                                  |
